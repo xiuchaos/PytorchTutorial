@@ -46,12 +46,6 @@ Go through [Learn Deep Learning with PyTorch](https://github.com/L1aoXingyu/code
 
 
 
-## Chap2 Deep Learning Frameworks
-
-* Install Pytorch
-
-
-
 
 
 
